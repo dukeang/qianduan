@@ -1,2 +1,84 @@
-# qianduan
-baiduqianduan
+<h1>基友组也文艺</h1>
+<ul>
+<li><a href="">导航链接一</a></li>
+<li><a href="">导航链接二</a></li>
+<li><a href="">导航链接三</a></li>
+<li><a href="">导航链接四</a></li>
+</ul>
+<h2>1.这是一篇散文</h2>
+<h2>桃花依旧笑春风</h2>
+<p>总觉得春天的信笺里，<a href="http://ife.baidu.com">写满了桃花的深情款款</a>，季节与温暖，只隔着一朵花开的距离。</p>
+<p>每一个春天，我都没来得及看到它抽新芽，发枝节，朵朵桃花便急不可待的绽放了。或热烈奔放，或温柔淡雅，像一个正当年的姑娘，就那样不管不顾开在春的眉眼间，开在画家的宣纸上，开在诗人的字里行间，开在光阴的轩窗里。也许，每一朵花，都是为了懂她的那个人而开的，如若能开在一个人的心上，春风传花信，花开不知年，定是最美的绽放。</p>
+<img src="http://i2.sanwen8.cn/l/1457479335.jpg" alt="妹子" title="妹子">
+<p>心里，有个人放在那里，是件收藏，偶尔，会在某时想起，也只是淡如水痕，将欢喜都深深浅浅的安放在杯盏里，不与外人道，独享内心的繁华，这便是春天里的想念。</p>
+<p>站在春的眉眼，往事幽居在心头，多少深情，在光阴中零落成泥，我们总是有好多的事情没有做，却因时光蹉跎而远走了，总是有好多话还没来得及说，就与某个人错过了，人生的风景，一直在辗转，还有多少来不及，<a href="http://ife.baidu.com" target="_blank" >被丢在生命的驿站里</a>?还有多少遇见，在转身之间，被一笔拂去深深意?</p>
+<h2>2.人世沧桑，更需从容</h2>
+<h2>学习前端要从细节开始</h2>
+<p>凤凰涅磐，难逃烈焰焚燃;烟火凌宇，何以不裹携风霜?你说你浮生望断，自此只愿一斛浊酒尽余欢;我却说我飞花掠尽，亦要踩着时光鼓点安坐浩荡江湖之上，管它三千繁芜，灼灼其厉;亦管它冽尘种种，终归落红流水，我只在波光流转里追随万物幻变的禅道，还有那刀剑浓情下未曾丢失的本真。</p><br>
+<p>莫来追问，此般清宁，岂不过于寡淡? 也莫来探究，半世兵荒马乱，里<a href="http://ife.baidu.com">他朝何与再和旧事温柔相待</a>?我只会说，苍莽人生，迟暮沿途， 不过青葱白玉年华中禅意蕴含的凝重，亦是风雨飘摇后年岁沉淀路上的底色。故而，流离半世志未酬，漂泊一生意阑珊，我仍会选择在云飞涛走里，将忧伤叠成心字罗衣，把眸疼翻作双行锦字，告诉未来，我不怕。<p>
+<img src="http://i2.sanwen8.cn/l/1457479335.jpg" alt="妹子" title="妹子">
+<li>导航链接一</li>
+<li>导航链接二</li>
+<li>导航链接三</li>
+<li>导航链接四</li>
+<h2>这是啥</h2>
+<p>两颗心</p>
+<img src="http://pics.sc.chinaz.com/files/pic/pic9/201601/apic18288.jpg" alt="两颗心" title="两颗心">
+<p>一个篮子</p>
+<img src="http://pics.sc.chinaz.com/files/pic/pic9/201603/apic19311.jpg" alt="一个篮子" title="一个篮子">
+<p>蛋蛋</p>
+<img src="http://pics.sc.chinaz.com/files/pic/pic9/201603/apic19304.jpg" alt="蛋蛋" title="蛋蛋">
+<p>节日</p>
+<img src="http://pics.sc.chinaz.com/files/pic/pic9/201603/apic19227.jpg" alt="节日" title="节日">
+<h2>3.我就不写文章了</h2>
+<h2>不是文章写什么标题</h2>
+<p>没有什么发表时间</p>
+<p>  1.第一个</p>
+<p>  2.第二个</p>
+<p>  3.第三个</p>
+<p>  4.第四个</p>
+下面是一个表格
+<table border="1">
+<tr>
+<th>姓名</th>
+<th>年龄</th>
+<th>成绩</th>
+</tr>
+<tr>
+<td>张三</td>
+<td>18</td>
+<td>10</td>
+</tr>
+<tr>
+<td>李四</td>
+<td>19</td>
+<td>9</td>
+</tr>
+<tr>
+<td>王二</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>小猫</td>
+<td>5</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>总分</td>
+<td colspan="2">28</td>
+</tr>
+</table>
+<h2>这是侧栏，单独提醒一下</h2>
+<h2>这里可以注册</h2>
+<form>
+您的邮箱地址：<input type="text" name="youxiang"><br>邮箱地址按照要求规范填写<br/>
+输入密码：<input type="password" name="key">重复密码：<input type="password" name="key2"><br>密码请设置6-16个字母或数字<br/>
+性别:<input type="radio" value="m" >男<input type="radio" value="w">女  
+城市：<select name="city"><option>一线城市</option><option>二线城市</option><option>三线城市</option><option>无线城市</option></select>
+爱好：<input type="checkbox" name="chi">吃<input type="checkbox" name="shuijiao">睡觉<input type="checkbox" name="kandianying">看电影</form>
+<form name="jianjie" action="http://www.91pick.com/renwu1.html" method="get">
+个人简介：<textarea rows="10" cols="30">怎么看都是一个很懒惰的人</textarea><input type="submit" value="提交"></form>
+<br/>
+<p>@基友组-昂@版权所有@</p>
+
